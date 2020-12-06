@@ -1,0 +1,6 @@
+{
+  "apdexTable": {"items":[{"data": ["Http500",2,25,10], "isController": false}]},
+  "statisticsTable":{"items":[{"data": ["Http500",2,25,10], "isController": false}]},
+  "errorsTable":{"items":[{"data": ["Http500",2,25,10], "isController": false}]},
+  "top5ErrorsBySamplerTable":{"items":[{"data": ["Http500",2,25,10], "isController": false}]}
+}
